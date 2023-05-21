@@ -80,6 +80,7 @@ const style = StyleSheet.create({
     paddingHorizontal: 4,
     paddingVertical: 1,
     backgroundColor: "#51C452",
+    borderRadius: 2
   },
   ratingText: {
     fontSize: 6,
