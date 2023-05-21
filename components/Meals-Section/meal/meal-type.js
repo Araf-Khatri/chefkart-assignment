@@ -13,7 +13,7 @@ const MealType = ({ equipments }) => {
         </View>
       ))}
       <View style={style.grey}></View>
-      <Link href={"/profile"}>
+      <Link href={"/meal-info"}>
         <View>
           <Text style={style.ingredient}>Ingredients</Text>
           <View>
